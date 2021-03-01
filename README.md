@@ -1,4 +1,5 @@
 # TikTok-content-farm
+![](https://www.iphones.ru/wp-content/uploads/2018/11/42C7C03E-1222-4B86-ADC7-987B085F15F8.png)
 Auto download all videos of some youtube channel and crop it into parts of 40 s to post them to the tick tok
 # NEW VERSION IS AVAILABLE NOW!!
 ## What is new
