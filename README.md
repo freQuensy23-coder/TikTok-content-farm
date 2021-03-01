@@ -2,7 +2,7 @@
 Auto download all videos of some youtube channel and crop it into parts of 40 s to post them to the tick tok
 # NEW VERSION IS AVAILABLE NOW!!
 ## What is new
-* Now you should run just one program. It will alone download and crop videos
+* Now you should run just one program. It will upload and crop the video itself
 * Absolute path to video folder works correctly
 * Get channel id by it's name
 * Using faster lib to crop videos (x 150 - 200 %) boost
