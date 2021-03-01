@@ -20,3 +20,7 @@ Auto download all videos of some youtube channel and crop it into parts of 40 s 
 * Create new TikTok account with login as the name of the YouTube channel.
 * Publish one video per 6-8 hours.
 * If the content of the channel that you have found is really trashy, you can quickly (in a month) promote your channel on tick tok and sell your account by going to a profit.
+## Will be released in the next versions
+* Video preview and selection before downloading
+* Auto posting to Tik Tok using MIM proxy and unofficial API
+* Downloading by search query
